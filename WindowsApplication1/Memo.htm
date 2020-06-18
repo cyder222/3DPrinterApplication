@@ -1,0 +1,17 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	    <h1>このソフトウェアの構成についてメモ</h1>
+        <h2>コマンドの追加について</h2>
+        コマンドは MainCommandManagerを経由して実行する。
+        ICommandクラスとCommandManagerはCommandBase.dllに含まれている。
+        ICommandインターフェースを継承したxxxCommandクラスをMainCommandManager.getInstance().execute(COmmand)
+           により実行することで、Undo,Redoが可能となる。
+        <h2>右クリックメニューの拡張について</h2>
+        
+
+	</body>
+</html>

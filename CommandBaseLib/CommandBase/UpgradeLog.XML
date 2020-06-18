@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CommandBase">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\CommandBase.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\CommandBase.suo">
+</Property><Property Name="Date" Value="2012年7月30日">
+</Property><Property Name="Time" Value="17:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CommandBase.sln" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="CommandBase.suo" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\CommandBase.csproj" Description="プロジェクト ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\CommandBase.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\3DSPlugin\3DSLoader.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\3DSPlugin\3DSLoader.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\3DSPlugin\3DS\Entity.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\3DSPlugin\3DS\Entity.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\3DSPlugin\3DS\Material.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\3DSPlugin\3DS\Material.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\3DSPlugin\3DS\Matrix.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\3DSPlugin\3DS\Matrix.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\3DSPlugin\3DS\Model.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\3DSPlugin\3DS\Model.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\3DSPlugin\3DS\ThreeDSFile.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\3DSPlugin\3DS\ThreeDSFile.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\3DSPlugin\3DS\Triangle.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\3DSPlugin\3DS\Triangle.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\3DSPlugin\3DS\Vector.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\3DSPlugin\3DS\Vector.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\Command.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\Command.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\ModelStruct.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\ModelStruct.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\ModelPlugin.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\ModelPlugin.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\Properties\AssemblyInfo.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\Vector3d.cs" Description="ファイルは正常に C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\Backup\CommandBase\Vector3d.cs としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="CommandBase" Source="CommandBase\CommandBase.csproj" Description="このプロジェクトは .NET Framework 2.0 または 3.0 に対応しています。プロジェクトで新しい .NET Framework を必要とするアセンブリを使用すると、ビルドに失敗します。[プロジェクト] メニューの [プロパティ] をクリックし、[.NET Framework] ボックスの一覧で新しいバージョンを選択することにより、.NET Framework のバージョンを変更できます。Visual Basic では、これは [コンパイル] タブの [詳細コンパイラ オプション] ボタンをクリックすると表示されます。">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\CommandBase.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="CommandBase" Source="CommandBase\CommandBase.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CommandBase.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="CommandBase.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CommandBase" Source="CommandBase\CommandBase.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

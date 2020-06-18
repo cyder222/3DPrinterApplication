@@ -1,0 +1,6 @@
+C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\CommandBase\bin\Debug\CommandBase.dll
+C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\CommandBase\bin\Debug\CommandBase.pdb
+C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\CommandBase\bin\Debug\Tao.OpenGl.xml
+C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\CommandBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\CommandBase\obj\Debug\CommandBase.dll
+C:\Users\taiki\Documents\Visual Studio 2010\Projects\3DPrinter\src\CommandBaseLib\CommandBase\CommandBase\obj\Debug\CommandBase.pdb

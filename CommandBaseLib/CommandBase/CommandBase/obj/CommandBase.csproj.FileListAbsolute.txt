@@ -1,0 +1,7 @@
+C:\Users\taiki\Documents\Visual Studio 2005\Projects\WindowsApplication1\CommandBaseLib\CommandBase\CommandBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\taiki\Documents\Visual Studio 2005\Projects\WindowsApplication1\CommandBaseLib\CommandBase\CommandBase\bin\Debug\CommandBase.dll
+C:\Users\taiki\Documents\Visual Studio 2005\Projects\WindowsApplication1\CommandBaseLib\CommandBase\CommandBase\bin\Debug\CommandBase.pdb
+C:\Users\taiki\Documents\Visual Studio 2005\Projects\WindowsApplication1\CommandBaseLib\CommandBase\CommandBase\obj\Debug\CommandBase.dll
+C:\Users\taiki\Documents\Visual Studio 2005\Projects\WindowsApplication1\CommandBaseLib\CommandBase\CommandBase\obj\Debug\CommandBase.pdb
+C:\Users\taiki\Documents\Visual Studio 2005\Projects\WindowsApplication1\CommandBaseLib\CommandBase\CommandBase\bin\Debug\Tao.OpenGl.dll
+C:\Users\taiki\Documents\Visual Studio 2005\Projects\WindowsApplication1\CommandBaseLib\CommandBase\CommandBase\bin\Debug\Tao.OpenGl.xml
